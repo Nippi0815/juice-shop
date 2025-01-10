@@ -4,6 +4,8 @@ plugins:
     enabled: true
   duplication:
     enabled: true
+  nodesecurity:
+    enabled: true
 checks:
   file-lines:
     config:
